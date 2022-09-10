@@ -1,0 +1,16 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "test:module": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "Harvey <harvey0379@163.com> (https://twitter.com/Harvey27171313)",
+  "license": "MIT",
+  "dependencies": {
+    "@harvey0379/shinco": "^1.0.2"
+  }
+}
