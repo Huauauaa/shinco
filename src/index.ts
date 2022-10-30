@@ -1,4 +1,4 @@
 import sum from './sum'
+import calcCharWidth from './calcCharWidth'
 
-// eslint-disable-next-line import/prefer-default-export
-export { sum }
+export { sum, calcCharWidth }
